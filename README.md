@@ -14,7 +14,7 @@
 - 🤝 Looking to collaborate with other **WA Bot Developers**
 
 <details>
-  <summary>📊 GitHub Stats</summary>
+  <summary>📊 GitHub Stats > (tap here) </summary>
   <img src="https://github-readme-stats.vercel.app/api?username=xchup&show_icons=true&theme=tokyonight" />
 </details>
 
@@ -26,7 +26,7 @@
 
 ---
 
-### 📫 Reach Out to Me
+### 📫 Reach Out to Me (tap on icons)
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xchup7@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/0.71c)
