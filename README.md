@@ -2,7 +2,7 @@
 <p align="center"><strong>Hi, Welcome To My Profile</strong></p>
 
 <p align="center">
-  <img src="https://github.com/xchup.png?size=1000" width="1000" style="border-radius: 50%" />
+  <img src="https://github.com/xchup.png?size=500" width="500" style="border-radius: 50%" />
 </p>
 
 ---
