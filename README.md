@@ -1,17 +1,17 @@
 <h1 align="center">Bryt ser</h1>
-<p align="center">Hi, Welcome To My Profile</p>
+<p align="center"><strong>Hi, Welcome To My Profile</strong></p>
 
 <p align="center">
-  <img src="https://github.com/account" width="100" style="border-radius: 50%" />
+  <img src="https://github.com/xchup.png?size=100" width="100" style="border-radius: 50%" />
 </p>
 
 ---
 
-### 🙋‍♂️ About Mehh 😜
+### 🙋‍♂️ About Me 😜
 
-- 👨‍💻 I'm Junior Developer  
-- 👑 I'm currently Working on `QUEEN-NEZUKO-MD`  
-- 🤝 I'm looking to collaborate with other **WA BOT DEVELOPERS**  
+- 👨‍💻 I'm a Junior Developer  
+- 👑 Currently working on `QUEEN-NEZUKO-MD`  
+- 🤝 Looking to collaborate with other **WA Bot Developers**
 
 <details>
   <summary>📊 GitHub Stats</summary>
@@ -26,7 +26,7 @@
 
 ---
 
-### 📫 Reach Me Out
+### 📫 Reach Out to Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xchup7@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/0.71c)
