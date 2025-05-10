@@ -41,6 +41,7 @@
 
 ### 📌 Popular Repositories
 
-- [instagram-5letter-username-finder](https://github.com/xchup/instagram-5letter-username-finder)  
-  _A tool to find 5-letter Instagram usernames_  
-  ⭐ 4 | 🍴 3
+#### [instagram-5letter-username-finder](https://github.com/xchup/instagram-5letter-username-finder)
+![Stars](https://img.shields.io/github/stars/xchup/instagram-5letter-username-finder?style=social)
+![Forks](https://img.shields.io/github/forks/xchup/instagram-5letter-username-finder?style=social)
+![Issues](https://img.shields.io/github/issues/xchup/instagram-5letter-username-finder)
