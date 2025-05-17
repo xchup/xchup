@@ -12,6 +12,7 @@
 - 👨‍💻 I'm a Junior Developer  
 - 👑 Currently working on `5L insta usernames `  
 - 🤝 Looking to collaborate with other **WA Bot Developers**
+- 🫂 More interested in making brout tools 🗿 > anyone interested to collab contact me
 
 <details>
   <summary>📊 GitHub Stats > (tap here) </summary>
