@@ -12,7 +12,7 @@
 - 👨‍💻 I'm a Junior Developer  
 - 👑 Currently working on `5L insta usernames `  
 - 🤝 Looking to collaborate with other **WA Bot Developers**
-- 🫂 More interested in making brout tools 🗿 > anyone interested to collab contact me
+- 🫂 More interested in making brout tools 🗿 > anyone interested to collab contact me [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6283870796188)
 
 <details>
   <summary>📊 GitHub Stats > (tap here) </summary>
